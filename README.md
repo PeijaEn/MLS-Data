@@ -11,9 +11,9 @@ The link can be found [here](https://www.kaggle.com/datasets/josephvm/major-leag
 
 ### Technology used
 - Python
- - Pandas
- - Jupyter notebook
- - numPy
+  - Pandas
+  - Jupyter notebook
+  - numPy
 - Tableau
 
 ### Results 
